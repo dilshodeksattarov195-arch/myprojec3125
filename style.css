@@ -1,0 +1,7 @@
+body { background: #5f70d7; margin: 0; font-family: sans-serif; }
+.analytics-view { padding: 59px; display: flex; }
+.block-metrics-0 { color: #4689b7; font-size: 17px; margin-bottom: 5px; }
+.block-database-1 { color: #2a7eab; font-size: 19px; margin-bottom: 5px; }
+.block-auth-2 { color: #4f9296; font-size: 21px; margin-bottom: 5px; }
+.block-cache-3 { color: #1d2c3a; font-size: 13px; margin-bottom: 5px; }
+.block-validator-4 { color: #64b1c4; font-size: 21px; margin-bottom: 5px; }
