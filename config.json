@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasepelete",
+        "uuid": 27640625,
+        "checksum": "rjhdvf"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
